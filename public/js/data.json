@@ -1,0 +1,77 @@
+{
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "images/weight loss3.jpg",
+            "title":"Weight loss"
+        },
+        {
+            "id":2,
+            "image": "images/Muscle gain.jpg",
+            "title":"Muscle gain"
+        },
+        {
+            "id":3,
+            "image": "images/Fitness.jpg",
+            "title":"Stay toned"
+        },{
+            "id":4,
+            "image": "images/weight loss3.jpg",
+            "title":"Weight loss"
+        },
+        {
+            "id":5,
+            "image": "images/Muscle gain.jpg",
+            "title":"Muscle gain"
+        },
+        {
+            "id":6,
+            "image": "images/Fitness.jpg",
+            "title":"Stay toned"
+        }
+       
+    ] ,
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fa fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook",
+            "background":"social face"
+        },
+        {
+            "id": 2,
+            "icon" : "icon fa fa-twitter fa-lg",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter",
+            "background":"social twitter"
+        },
+        {
+            "id": 3,
+            "icon" : "icon fa fa-pinterest fa-lg",
+            "title" : "Pin Me on",
+            "body" : "Social Pinterest",
+            "background":"social pin"
+        }
+    ] ,
+    "profail":[
+        {
+           "id":1 ,
+           "title":"Bootstrap",
+           "presentig":"100%",
+           "span":"sp1"
+        },
+        {
+            "id":2 ,
+            "title":"CSS3",
+            "presentig":"90%",
+            "span":"sp2"
+         },
+         {
+            "id":3 ,
+            "title":"Photoshop",
+            "presentig":"80%",
+            "span":"sp3"
+         }
+    ]
+}
